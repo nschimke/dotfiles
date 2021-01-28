@@ -1,0 +1,7 @@
+[user]
+	name = Nathan Schimke
+	email = nathan@schimke.net
+[pull]
+	rebase = true
+[credential]
+	helper = osxkeychain
