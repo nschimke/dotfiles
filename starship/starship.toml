@@ -1,0 +1,25 @@
+[aws]
+symbol = " "
+
+[character]
+success_symbol = "[➜](green) "
+error_symbol = "[✗](red)"
+
+[cmd_duration]
+disabled = false
+
+[gcloud]
+symbol = " "
+disabled = true
+
+[hostname]
+format = "on [$hostname](blue) in "
+ssh_only = false
+
+[time]
+disabled = false
+format = "[$time](blue) "
+
+[username]
+show_always = true
+format = "[$user](blue) "
