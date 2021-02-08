@@ -16,6 +16,9 @@ disabled = true
 format = "on [$hostname](blue) in "
 ssh_only = false
 
+[kubernetes]
+disabled = false
+
 [time]
 disabled = false
 format = "[$time](blue) "
